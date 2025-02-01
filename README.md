@@ -1,5 +1,5 @@
 # 🔍 About Me:
-🔭 I’m currently working on AI App Development<br>🤝 I’m looking to collaborate on a Browser Extension Project<br>🌱 I’m currently learning System Design Concepts<br>⚡ I love travelling
+🔭 I’m currently working on AI App Development<br>🤝 I’m looking to collaborate on a Browser Extension Project<br>🌱 I’m currently learning System Design Concepts<br>🧳 I love travelling
 
 
 ## 🌐 Socials:
